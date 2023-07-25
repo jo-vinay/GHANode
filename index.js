@@ -10,6 +10,3 @@
 // app.listen(1337);
 
 console.log('Hello Node Demo !!');
-var moment = require('moment');
-var date = moment().format('LL');
-console.log(date);
