@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-helloworld",
+  "version": "0.0.0",
+  "description": "NodejsHelloworld",
+  "main": "index.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "build": "npm build"
+    }
+}
